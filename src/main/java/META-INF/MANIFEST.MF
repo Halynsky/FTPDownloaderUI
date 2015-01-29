@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: commons-net-3.3.jar
+App.Main-Class: App.Main
+

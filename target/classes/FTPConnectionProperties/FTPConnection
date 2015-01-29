@@ -1,0 +1,16 @@
+host =
+user = anonymous
+password = anonymous@com
+remoteFilePath =
+localFilePath =
+
+#in localFilePath separator is "\\"
+
+
+#Exampl
+
+#host = ftp.mozilla.org
+#user = anonymous
+#password = anonymous@com
+#remoteFilePath = /pub/mozilla.org/extensions/
+#localFilePath = D:\\Test\\aaa\\bbb

@@ -1,0 +1,10 @@
+App\Main.class
+GUI\MainGUI$3.class
+GUI\MainGUI$1.class
+GUI\MainGUI.class
+App\FTPPropertiesLoader.class
+GUI\MainGUI$2$1.class
+App\LocalFolderChecker.class
+GUI\MainGUI$2.class
+App\FTPFileDownloader.class
+App\FileDownloadRunner.class
