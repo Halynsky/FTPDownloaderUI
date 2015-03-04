@@ -13,7 +13,7 @@ Attention!!!
  
 If FTP-server that you work with it
 is public (without authentication, login and password are not needed)
-leave "login" and "password" defoult values
+leave "login" and "password" default values
 
 =================================================================================
 
